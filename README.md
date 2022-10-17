@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @rizman1234
-- 👀 I’m interested in entry level software engineering positions
-- 🌱 I’m currently learning HTML, CSS, and Javascript through The Odin Project
+- 👀 I’m currently a Network Engineer at AT&T 
+- 🌱 I’m currently learning React through FullStackOpen
 - 📫 How to reach me rizwan.halani@gmail.com
 
 <!---
