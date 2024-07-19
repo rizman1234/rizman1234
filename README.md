@@ -2,6 +2,7 @@
 - 👀 I’m currently a Network Engineer at AT&T 
 - 🌱 I’m currently learning React through FullStackOpen
 - 📫 How to reach me rizwan.halani@gmail.com
+- My LinkedIn is https://www.linkedin.com/in/rizwanhalani/
 
 <!---
 rizman1234/rizman1234 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
